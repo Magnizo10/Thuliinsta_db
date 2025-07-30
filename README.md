@@ -2,7 +2,7 @@
 A SQL Server relational database for managing customer hair product orders. Includes tables for customers, products, and orders, with seed data and sample queries for CRUD operations
 
 
-# 💇 ThuliInstallation Database
+#ThuliInstallation Database
 
 A SQL Server-based relational database designed to manage customers, products, and order records for a hair product business. This project provides a clean schema with relevant relationships and sample data for quick setup and testing.
 
